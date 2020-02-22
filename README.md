@@ -1,2 +1,0 @@
-# CopyDSlackTestimonial
-Created with CodeSandbox
