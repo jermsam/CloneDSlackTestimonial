@@ -1,13 +1,16 @@
 import React from "react";
+import { Box, Heading } from "grommet";
 import { CMarqueClone } from "./CMarcue";
 import "./styles.css";
 import "./marcue.css";
 
 export default function App() {
   return (
-    <div className="App">
-      <h2>Companies that collaborate in Slack.</h2>
+    <Box gap="none" align="center" justify="center">
+      <Heading margin={{ bottom: "none" }} textAlign="center" level="2">
+        Companies that collaborate in Slack.
+      </Heading>
       <CMarqueClone />
-    </div>
+    </Box>
   );
 }
