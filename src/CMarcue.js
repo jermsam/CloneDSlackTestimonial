@@ -15,8 +15,10 @@ export const CMarqueCard = ({ text, link, alt, src, srcSet }) => {
       color="grey"
       pad="medium"
     >
-      <Box gap="medium">
-        <Text size="small">{text}</Text>
+      <Box gap="medium" align="center">
+        <Text textAlign="center" size="small">
+          {text}
+        </Text>
         <Image
           src={src}
           srcSet={srcSet}
