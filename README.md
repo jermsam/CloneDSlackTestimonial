@@ -7,10 +7,10 @@ I challenged myself to reproduce it. And this is what I got by the morning (took
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/jermsam/CopyDSlackTestimonial.git):
+Download the example [or clone the repo](https://github.com/jermsam/CloneDSlackTestimonial.git):
 
 ```
-git clone https://github.com/jermsam/CopyDSlackTestimonial.git yourcustomname
+git clone https://github.com/jermsam/CloneDSlackTestimonial.git yourcustomname
 ```
 
 Move into directory and install dependencies using yarn:
