@@ -1,4 +1,4 @@
-# CopyDSlackTestimonial
+# CloneDSlackTestimonial
 I like the way slack does its testimonial
 
 ## Motivation:
